@@ -1,0 +1,2 @@
+#!/bin/sh
+gcc -shared to_load.c -o test.so
